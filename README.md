@@ -1,5 +1,6 @@
 # rustlings
 Solution to rustlings exercises
+```
 ✅ Successfully ran exercises/intro/intro1.rs!
 ✅ Successfully ran exercises/intro/intro2.rs!
 ✅ Successfully ran exercises/variables/variables1.rs!
@@ -109,3 +110,4 @@ Solution to rustlings exercises
 We hope you enjoyed learning about the various aspects of Rust!
 If you noticed any issues, please don't hesitate to report them to our repo.
 You can also contribute your own exercises to help the greater community!
+```
